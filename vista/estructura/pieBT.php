@@ -2,9 +2,14 @@
 </div>
 </div>
 
-<footer class="footer mt-auto py-3 bg-dark">
+<footer class="footer mt-auto py-3">
     <div class="container">
-        <span class="text-muted">Este es el pie</span>
+
+        <p>Blog built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">Clau</a>.</p>
+        <p>
+            <a href="#">Back to top</a>
+        </p>
+
     </div>
 </footer>
 
