@@ -18,5 +18,8 @@
 <script src="../../TPBootstrap/vista/js/jquery/jquery-3.5.1.slim.min.js"></script>
 <script src="../../TPBootstrap/vista/js/popper/popper.min.js"></script>
 <script src="../../TPBootstrap/vista/js/bootstrap/4.5.2/bootstrap.min.js"></script>
+<script src="../../TPBootstrap/vista/js/bootstrap/4.5.2/bootstrapValidator.min.js"></script>
+
+<script type="text/javascript" src="../../TPBootstrap/vista/js/bootstrap/4.5.2/validator.js"></script>
 </body>
 </html>

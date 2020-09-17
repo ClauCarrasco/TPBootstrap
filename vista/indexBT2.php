@@ -9,24 +9,25 @@ include_once("estructura/cabeceraBT.php");
 </p>
 
 <!---->
-<form  id="eje4" name="eje4" method="GET" action="accionBT.php">
+<form  id="eje4" name="eje4" method="GET" action="accionBT.php"  data-toggle="validator" >
     <!--<form  id="eje4" name="eje4" method="POST" action="accion.php">-->
     <div class="row">
+
         <div class="col-md-6 mb-3">
-            <label for="nombre">Nombre</label>
+            <label for="nombre" class="control-label">Nombre</label>
             <input class="form-control" id="nombre" name="nombre" placeholder="Escriba sus nombre completo" required
                    type="text" >
             <div class="invalid-feedback">
-                El nombre es requerido.
+
             </div>
 
-        </div>
 
+        </div>
         <div class="col-md-6 mb-3">
             <label for="apellido">Apellido</label>
             <input type="text" class="form-control" name="apellido" id="apellido" placeholder="Escriba todos sus apellidos" required>
             <div class="invalid-feedback">
-                Los apellidos son req
+
             </div>
         </div>
 
@@ -46,6 +47,17 @@ include_once("estructura/cabeceraBT.php");
             <div class="invalid-feedback">
                 Debe ingresar la direccion
             </div>
+
+        </div>
+
+        <div class="form-group has-feedback">
+            <label for="inputTwitter" class="control-label">Twitter</label>
+            <div class="input-group">
+                <span class="input-group-addon">@</span>
+                <input type="text" pattern="^[_A-z0-9]{1,}" maxlength="15" class="form-control" id="inputTwitter" name ="inputTwitter"
+                       placeholder="1000hz" required>
+            </div>
+            <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
 
         </div>
 

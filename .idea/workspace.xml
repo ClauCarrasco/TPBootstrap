@@ -12,6 +12,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,6 +65,7 @@
       <updated>1600117913940</updated>
       <workItem from="1600117915222" duration="4116000" />
       <workItem from="1600290148303" duration="12589000" />
+      <workItem from="1600361402140" duration="361000" />
     </task>
     <servers />
   </component>
@@ -133,6 +141,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="316" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1600304971712" />
+    <state x="416" y="326" key="NewPhpClassDialog" timestamp="1600348944905">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="416" y="326" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1600348944905" />
     <state x="474" y="423" key="NewPhpFileDialog" timestamp="1600290459576">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
