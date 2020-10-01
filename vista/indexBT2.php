@@ -9,7 +9,7 @@ include_once("estructura/cabeceraBT.php");
 </p>
 
 <!---->
-<form  id="eje4" name="eje4" method="GET" action="accionBT.php"  data-toggle="validator" >
+<form  id="eje4" name="eje4" method="POST" action="accionBT.php"  data-toggle="validator" enctype="multipart/form-data" >
     <!--<form  id="eje4" name="eje4" method="POST" action="accion.php">-->
     <div class="row">
 
@@ -42,7 +42,7 @@ include_once("estructura/cabeceraBT.php");
 
         <div class="col-md-12 mb-3">
             <label for="direccion">Direccion:</label>
-            <textarea  class="form-control text-wrap" name="direccion" id="direccion" placeholder="Escriba su direccion completa"  required>
+            <textarea  class="form-control" name="direccion" id="direccion" placeholder="Escriba su direccion completa"  required>
             </textarea>
             <div class="invalid-feedback">
                 Debe ingresar la direccion
@@ -57,19 +57,28 @@ include_once("estructura/cabeceraBT.php");
                 <input type="text" pattern="^[_A-z0-9]{1,}" maxlength="15" class="form-control" id="inputTwitter" name ="inputTwitter"
                        placeholder="1000hz" required>
             </div>
-            <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+            <span class="form-control-feedback" aria-hidden="true"></span>
+
+        </div>
+
+        <div class="form-group has-feedback">
+            <label for="archivo" class="control-label">Archivo</label>
+            <div class="input-group">
+                <input type="file" class="form-control" id="archivo" name ="archivo" required>
+            </div>
+            <span class="form-control-feedback" aria-hidden="true"></span>
 
         </div>
 
 
+
     </div>
      <div class="row">
-         <div class="col-md-8 mb-3">
-         </div>
-         <div class="">
+
+         <div class="col-md-12">
 <!--             <div class="col-md-12 mb-3">-->
-            <input id="btn_eje4"  class="btn btn-primary" name="btn_eje4" type="submit" value="Enviar">
-         </div>
+             <input id="btn_eje4"  class="form-control btn-block" name="btn_eje4" type="submit" value="Enviar">
+        </div>
     </div>
 </form >
 

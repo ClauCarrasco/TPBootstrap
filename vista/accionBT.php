@@ -14,6 +14,7 @@ include_once("../configuracion.php");
         $respuesta2= $obj2->verInformacion($datos);
 
 
+
         ?>
 
         <div class="alert alert-primary" role="alert">
@@ -32,7 +33,7 @@ include_once("../configuracion.php");
         <?php echo $respuesta2 ?>
     </div>
 
-    <div class="alert alert-info" role="alert">
+    <div class="alert alert-secondary" role="alert">
         <?php echo $respuesta2 ?>
     </div>
 

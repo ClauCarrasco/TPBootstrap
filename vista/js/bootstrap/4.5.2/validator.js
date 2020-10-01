@@ -42,6 +42,20 @@ $('#eje4').bootstrapValidator({
 
         },
 
+        edad: {
+
+            validators: {
+
+                maxLength: {
+
+                    message: 'ingrese un valor menor a 150'
+
+                }
+
+            }
+
+        },
+
         inputTwitter: {
 
             validators: {
@@ -54,7 +68,8 @@ $('#eje4').bootstrapValidator({
 
                 regexp:{
                     message: 'Ingrese una cadena válida'
-                }
+                },
+
 
             }
 

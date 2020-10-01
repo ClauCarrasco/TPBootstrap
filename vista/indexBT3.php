@@ -12,94 +12,94 @@ include_once("estructura/cabeceraBT.php");
         </div>
 
     </div>
-<!--    <div class="row mb-3">-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre1" class="" src="../vista/img/tigre1.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
+    <div class="row mb-3">
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre1" class="" src="../vista/img/tigre1.jpg"  width="100%" height="100%">
+        </div>
+
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre2" class="" src="../vista/img/tigre2.jpg"  width="100%" height="100%">
+        </div>
+
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre3" class="" src="../vista/img/tigre3.jpg" width="100%" height="100%">
+        </div>
+
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre4" class="" src="../vista/img/tigre4.jpg"  width="100%" height="100%">
+        </div>
+
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre5" class="" src="../vista/img/tigre5.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre6.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre7.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre8.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre9.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre10.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre11.jpg"  width="100%" height="100%">
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">
+            <img alt="Tigre6" class="" src="../vista/img/tigre12.jpg"  width="100%" height="100%">
+        </div>
+
+    </div>
+
 <!---->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre2" class="" src="../vista/img/tigre2.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
+<!--<div class="row mb-3">-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre1" class="" src="../vista/img/tigre1.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
 <!---->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre3" class="" src="../vista/img/tigre3.jpg" width="100%" height="100%">-->
-<!--        </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre2" class="" src="../vista/img/tigre2.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
 <!---->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre4" class="" src="../vista/img/tigre4.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre3" class="" src="../vista/img/tigre3.jpg" width="100%" height="100%">-->
+<!--    </div>-->
 <!---->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre5" class="" src="../vista/img/tigre5.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre6.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre7.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre8.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre9.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre10.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre11.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
-<!--        <div class="col-lg-2 col-md-3 col-sm-4  mb-3">-->
-<!--            <img alt="Tigre6" class="" src="../vista/img/tigre12.jpg"  width="100%" height="100%">-->
-<!--        </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre4" class="" src="../vista/img/tigre4.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
 <!---->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre5" class="" src="../vista/img/tigre5.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre6.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre7.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre8.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre9.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre10.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre11.jpg"  width="100%" height="100%">-->
+<!--    </div>-->
+<!--    <div class="col-sm-4">-->
+<!--        <img alt="Tigre6" class="" src="../vista/img/tigre12.jpg"  width="100%" height="100%">-->
 <!--    </div>-->
 
-
-<div class="row mb-3">
-    <div class="col-sm-4">
-        <img alt="Tigre1" class="" src="../vista/img/tigre1.jpg"  width="100%" height="100%">
-    </div>
-
-    <div class="col-sm-4">
-        <img alt="Tigre2" class="" src="../vista/img/tigre2.jpg"  width="100%" height="100%">
-    </div>
-
-    <div class="col-sm-4">
-        <img alt="Tigre3" class="" src="../vista/img/tigre3.jpg" width="100%" height="100%">
-    </div>
-
-    <div class="col-sm-4">
-        <img alt="Tigre4" class="" src="../vista/img/tigre4.jpg"  width="100%" height="100%">
-    </div>
-
-    <div class="col-sm-4">
-        <img alt="Tigre5" class="" src="../vista/img/tigre5.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre6.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre7.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre8.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre9.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre10.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre11.jpg"  width="100%" height="100%">
-    </div>
-    <div class="col-sm-4">
-        <img alt="Tigre6" class="" src="../vista/img/tigre12.jpg"  width="100%" height="100%">
-    </div>
-
-</div>
+<!--</div>-->
      <div class="row  mb-3">
          <div class="col-sm-4 ">
              Actualmente el tigre es animal nacional en diversos países de Asia:[cita requerida]
@@ -129,9 +129,12 @@ include_once("estructura/cabeceraBT.php");
 
             <img alt="Tigre1" width="140" height="140"  class="bd-placeholder-img rounded-circle" src="../vista/img/tigre1.jpg"
                  preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
+
+        <img alt="tigre4" class="bd-placeholder-img rounded-circle" width="140" height="140" src="../vista/img/tigre1.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></img>
+
         <h2>Heading</h2>
         <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+        <p><a class="btn btn-info" href="#" role="button">View details »</a></p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
         <img alt="Tigre2" width="140" height="140"  class="bd-placeholder-img rounded-circle" src="../vista/img/tigre4.jpg"
@@ -147,7 +150,7 @@ include_once("estructura/cabeceraBT.php");
 
         <h2>Heading</h2>
         <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
+        <p><a class="btn btn-warning" href="#" role="button">View details »</a></p>
     </div><!-- /.col-lg-4 -->
 </div>
 
